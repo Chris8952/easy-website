@@ -1,0 +1,154 @@
+.button {
+    color: white;
+    background-color: #3882f6;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-style: none;
+    border-radius: 4px;
+}
+li {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    gap: 0px;
+    margin-left: 500px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.body-1 {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+}
+H2 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+   margin-bottom: 0;
+   flex-wrap: wrap;
+   display: flex;
+}
+ img.top {
+    width: 500px;
+    height: 250px;
+    padding-bottom: 50px;
+    padding-left: 250px;
+}
+.hero  {
+    font-size: 18px;
+    color: #E5E7EB;
+    padding-left: 200px;
+}
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+p {
+    margin-top: 0;
+}
+h3 {
+    justify-content: center;
+    display: flex;
+    font-size: 36px;
+}
+.container img {
+    width: 200px;
+    height: 250px;
+}
+.box1,.box2,.box3,.box4 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 24px;
+    color: rgb(128, 128, 128);
+}
+.age {
+    padding-right: 20px;
+}
+.body-3 {
+    padding: 100px;
+}
+.container {
+    position: relative;
+    text-align: center;
+}
+.box1 {
+    position: absolute;
+    bottom: -80px;
+    left: 510px;
+}
+.box2 {
+    position: absolute;
+    bottom: -80px;
+    left: 730px;
+}
+.box3 {
+    position: absolute;
+    bottom: -80px;
+    left: 955px;
+}
+.box4 {
+    position: absolute;
+    bottom: -80px;
+    left: 1180px;
+}
+.body-3 {
+    background-color: #E5E7EB;
+    margin-top: 150px;
+}
+.quote {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+    padding-left: 500px;
+}
+.body-3 p {
+    font-weight: bolder;
+    padding-left: 1070px;
+}
+.body-4 {
+    background-color: #3882f6;
+    color: white;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    border-style: none;
+    border-radius: 4px;
+}
+.clap {
+    font-weight: bold;
+    font-size: 20px;
+}
+.body-4 .button {
+    position: absolute;
+    left: 1200px;
+    bottom: -585px;
+    border-style: double;
+    border-color: white;
+}
+.footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+
+
